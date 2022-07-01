@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@types/react": "^18.0.8",
-    "@types/react-dom": "^18.0.2",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-doc-viewer": "0.1.5"
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.2",
+    "react": "17.0.2",
+    "react-doc-viewer": "0.1.5",
+    "react-dom": "17.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
